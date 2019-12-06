@@ -4,8 +4,12 @@ Finally project for GR5242_Advanced Machine Learning
 Protential reference:
 
 https://blog.csdn.net/qq_33594380/article/details/84135797    --DCGAN
+
 https://www.cnblogs.com/bonelee/p/9166122.html   --DCGAN、WGAN、WGAN-GP、LSGAN、BEGAN
-https://github.com/rajathkmp/DCGAN   -- Code of DCGAN using keras
+
+https://github.com/rajathkmp/DCGAN   -- Code of DCGAN using keras (debug failed)
+
+https://www.tensorflow.org/tutorials/generative/dcgan   -- Code of Basic DCGAN (debug success)
 
 
 Implement of GAN:
