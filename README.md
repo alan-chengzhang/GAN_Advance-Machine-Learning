@@ -30,5 +30,5 @@ importantly, you must develop your own code and your own neural network models.
 rameters. Compare samples from your model to real data. How is the quality compared to your GAN on
 MNIST? If the training does not go well, what failure modes do you see?
 
-4.(Optional) There are several improved versions of GAN such as Wasserstein GAN (WGAN). Train your own
+4. (Optional) There are several improved versions of GAN such as Wasserstein GAN (WGAN). Train your own
 WGAN https://arxiv.org/abs/1701.07875 on MNIST and SVHN instead of the plain GAN.
